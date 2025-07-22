@@ -2,9 +2,6 @@ apple
 mango
 grape
 banana
-<<<<<<< HEAD
-orange
-=======
 orange
 cherry
->>>>>>> 00d646e (committed cherry)
+
